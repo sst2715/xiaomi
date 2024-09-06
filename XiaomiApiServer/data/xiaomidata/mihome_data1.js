@@ -1,0 +1,32 @@
+module.exports = [
+    {
+      "id": "1",
+      "alt": "1",
+      "pic": "https://i1.mifile.cn/a4/cms_15076174213867_BiuhQ!2146x947.jpg",
+      "phone_id": "1"
+    },
+    {
+      "id": "2",
+      "alt": "2",
+      "pic": "https://i1.mifile.cn/a4/cms_15076175050228_VhBrA!2146x947.jpg",
+      "phone_id": "2"
+    },
+    {
+      "id": "3",
+      "alt": "3",
+      "pic": "https://i1.mifile.cn/a4/cms_15076175510295_hJTKc!2146x947.jpg",
+      "phone_id": "3"
+    },
+    {
+      "id": "4",
+      "alt": "4",
+      "pic": "https://i1.mifile.cn/a4/cms_15076176666049_Svfql!2146x947.jpg",
+      "phone_id": "4"
+    },
+    {
+      "id": "5",
+      "alt": "5",
+      "pic": "https://i1.mifile.cn/a4/cms_1507618203943_vNKBa!2146x947.jpg",
+      "phone_id": "5"
+    }
+  ]
